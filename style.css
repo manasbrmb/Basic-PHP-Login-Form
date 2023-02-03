@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(145, 173, 197);
+    font-family: "Poppins",sans-serif;
+    
+}
+div{
+    background-color: rgb(28, 167, 192);
+    margin: 120px auto;
+    width: 25%;
+    padding: 50px;
+    box-shadow: 15px 15px 6px rgb(7, 26, 43);
+    border-radius: 7px;
+
+}
+#btn{
+    background-color:rgb(7, 85, 78);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 4px;
+    text-size-adjust: large;
+    margin: 10px;
+}
